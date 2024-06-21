@@ -1,0 +1,27 @@
+*{margin: 0px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: border-box;
+}
+.Navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color:#ffffff ;
+
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image:url("pngwing.com.png") ;
+    background-size: cover;
+    height:57px ;
+    width: 100%;
+}
+.border{
+    border: 1.50px;
+    border: solid transparent;
+}
+.border:hover{
+   border:1.50px solid white ;
+}
