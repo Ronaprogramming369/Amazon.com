@@ -2,10 +2,13 @@
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 border: border-box;
 }
+/* box1 */
 .Navbar{
     height: 60px;
     background-color: #0f1111;
     color:#ffffff ;
+    display: flex;
+    align-items: center;
 
 }
 .nav-logo{
@@ -15,7 +18,7 @@ border: border-box;
 .logo{
     background-image:url("pngwing.com.png") ;
     background-size: cover;
-    height:57px ;
+    height:50px ;
     width: 100%;
 }
 .border{
@@ -25,3 +28,26 @@ border: border-box;
 .border:hover{
    border:1.50px solid white ;
 }
+/* box2 */
+.icon-location{
+    display: flex;
+    align-items: center;
+}
+.to{
+    color: #cccccc;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.Bangladesh{
+    color: #ffffff;
+    font-size: 16px;
+    margin-left: 4px;
+}
+.border-2{
+    border: 1.50px;
+    border: solid transparent
+}
+.border-2:hover{
+   border:  1.50px solid white
+}
+/* box3 */
