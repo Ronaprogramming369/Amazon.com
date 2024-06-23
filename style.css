@@ -51,3 +51,41 @@ border: border-box;
    border:  1.50px solid white
 }
 /* box3 */
+.all-search{
+    
+    display: flex;
+    justify-content: space-evenly;
+   /* background-color: pink;  */
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+}
+.All{
+   background-color: #f3f3f3;
+   width: 45px;
+   
+    border-top-left-radius:  4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+
+}
+.Search{
+    width: 100%;
+    font-size: 1.1rem;
+    border: none;
+    
+    
+}
+.logo-2{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    background-color: #FCBC6C;
+    border-top-right-radius:  4px;
+    border-top-right-radius:  4px;
+    
+    
+}
+/* box4 */
